@@ -7,3 +7,5 @@ Working on **Arises** — an AI-powered Calendar tool to help you focus on what 
 > I design, build, and ship fast. Always learning. Always improving.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedevweb)](https://github.com/anuraghazra/github-readme-stats)
+
+![My banner](./assets/bluffy.jpg)
