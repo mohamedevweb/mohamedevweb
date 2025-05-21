@@ -8,4 +8,4 @@ Working on **Arises** — an AI-powered Calendar tool to help you focus on what 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedevweb)](https://github.com/anuraghazra/github-readme-stats)
 
-![My banner](./assets/bluffy.jpg)
+![My banner](./assets/luffy.jpg)
