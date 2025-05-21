@@ -1,4 +1,4 @@
-# Mohamed — On a mission to be the best.
+# On a mission to be the best.
 
 Currently building **MC Studio** — a creative web studio crafting bold websites & smart SaaS tools.
 
