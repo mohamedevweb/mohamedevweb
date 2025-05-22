@@ -1,5 +1,3 @@
-# On a mission to be the best.
-
 Currently building **MC Studio** — a creative web studio crafting bold websites & smart SaaS tools.
 
 Working on **Arises** — an AI-powered Calendar tool to help you focus on what really matters.
