@@ -1,6 +1,4 @@
-Currently building **MC Studio** — a creative web studio crafting bold websites & SaaS.
-
-Working on **Arises** — an AI-powered Calendar tool to help you focus on what really matters.
+Currently building **MC Studio** — a creative web studio crafting bold websites & SaaS for SaaS founders
 
 > I design, build, and ship fast. Always learning. Always improving.
 
